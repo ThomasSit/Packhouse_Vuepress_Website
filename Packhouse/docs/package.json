@@ -1,0 +1,19 @@
+{
+  "name": "packhousewebsite",
+  "version": "0.0.1",
+  "description": "Packhouse levert op software gebaseerde interactieve media. Een gouden mix van elegantie en efficië.",
+  "main": "index.js",
+  "authors": {
+    "name": "Thomas",
+    "email": "165077@student.horizoncollge.nl"
+  },
+  "repository": "/Packhouse Website",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
